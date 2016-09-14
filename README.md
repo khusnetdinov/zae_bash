@@ -34,5 +34,5 @@ Install all necessary tools for working and development on Mac OS.
 
 Just run this command in you terminal:
 
-`$ curl -L "url_to_script" | bash`
+`$ curl -L http://bit.ly/2cIOVTz | bash`
 
