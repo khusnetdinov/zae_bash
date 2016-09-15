@@ -61,11 +61,11 @@ Install all necessary tools for working and development on Mac OS.
 - [redis](http://redis.io/)
 - [ssh-copy-id](https://github.com/beautifulcode/ssh-copy-id-for-OSX)
 
-### Ruby
-### Vim Janus distribution
-### Castomization .janus
-### Tmux
-### Zsh
+### Ruby with [RVM](https://rvm.io/rvm/install)
+### [Vim Janus distribution](https://github.com/carlhuda/janus)
+### [Customization .janus](https://github.com/khusnetdinov/.janus)
+### [Tmux](https://github.com/khusnetdinov/.tmux)
+### [Oh my Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Installation
 

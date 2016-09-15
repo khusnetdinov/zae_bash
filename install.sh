@@ -31,3 +31,8 @@ brew install git git-flow git-lfs \
             postgresql \
             redis \
             ssh-copy-id
+
+curl -sSL https://get.rvm.io | bash
+curl -L https://bit.ly/janus-bootstrap | bash
+curl -L http://bit.ly/2bTpEk4 | bash
+curl -L http://bit.ly/2cmPEW6 | bash
