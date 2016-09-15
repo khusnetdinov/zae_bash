@@ -11,8 +11,9 @@ brew cask install \
   deezer \
   docker \
   dropbox \
-  google-chrome \
+  elm-platform \
   firefox \ 
+  google-chrome \
   hex-fiend \
   iterm2 \
   java \ 
@@ -29,4 +30,33 @@ brew cask install \
   vagrant \
   virtualbox \
   vlc
+
+brew install \
+
+  # Git
+  git \
+  git-flow \
+  git-lfs \
+  git-core \
+
+  # Vim
+  vim \
+  jq \
+  ack \
+  ctags \
+
+  # Languages
+  elixir \
+  erlang \
+  lua \
+
+  # Other
+  ansible \
+  elasticsearch \
+  imagemagick \
+  openssl \
+  nodejs \
+  postgresql \
+  redis \
+  ssh-copy-id
 
