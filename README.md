@@ -16,12 +16,8 @@ Install all necessary tools for working and development on Mac OS.
 - [Dropbox](https://www.dropbox.com/)
 - [Elm](http://elm-lang.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Google Chrome](https://www.google.ru/chrome/browser/desktop/)
-- [Hex Fiend](http://ridiculousfish.com/hexfiend/)
 - [Iterm2](https://www.iterm2.com/)
 - [Java](https://java.com/ru/download/)
-- [Keka](http://www.kekaosx.com/en/)
-- [Monosnap](https://monosnap.com/welcome)
 - [Ngrok](https://ngrok.com/)
 - [Libre Office](https://www.libreoffice.org/)
 - [Skype](https://www.skype.com/)
@@ -72,6 +68,16 @@ Install all necessary tools for working and development on Mac OS.
 Just run this command in you terminal:
 
 `$ curl -L http://bit.ly/2cIOVTz | bash`
+
+AppStore installation for:
+
+- [Keka](http://www.kekaosx.com/en/)
+- [Monosnap](https://monosnap.com/welcome)
+
+Manual installation:
+
+- [Google Chrome](https://www.google.ru/chrome/browser/desktop/)
+- [Hex Fiend](http://ridiculousfish.com/hexfiend/)
 
 # License
 

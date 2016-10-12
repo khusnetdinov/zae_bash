@@ -9,11 +9,9 @@ brew cask install appcleaner \
             dash deezer docker dropbox \
             elm-platform \
             firefox \ 
-            google-chrome \
             iterm2 \
             java \ 
             libreoffice \
-            monosnap \
             ngrok \
             skype slack sourcetree sqlpro-for-postgres \
             transmission torbrowser vagrant virtualbox vlc
