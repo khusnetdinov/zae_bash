@@ -78,6 +78,11 @@ Manual installation:
 - [Google Chrome](https://www.google.ru/chrome/browser/desktop/)
 - [Hex Fiend](http://ridiculousfish.com/hexfiend/)
 
+Need to finish instalation:
+
+- Manual setup fonts to Vim
+- Set background color for Iterm2
+
 # License
 
 ### This code is free to use under the terms of the MIT license.

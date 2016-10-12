@@ -47,3 +47,6 @@ curl -sSL https://get.rvm.io | bash
 curl -L https://bit.ly/janus-bootstrap | bash
 curl -L http://bit.ly/2bTpEk4 | bash
 curl -L http://bit.ly/2cmPEW6 | bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+echo "Please setup Iterm2 Meslo fonts for Vim, and set background color #1D1F21"
