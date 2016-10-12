@@ -13,7 +13,6 @@ brew cask install appcleaner \
             hex-fiend \
             iterm2 \
             java \ 
-            keka \
             libreoffice \
             monosnap \
             ngrok \
