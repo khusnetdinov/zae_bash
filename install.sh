@@ -10,7 +10,6 @@ brew cask install appcleaner \
             elm-platform \
             firefox \ 
             google-chrome \
-            hex-fiend \
             iterm2 \
             java \ 
             libreoffice \
