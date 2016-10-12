@@ -51,7 +51,6 @@ Install all necessary tools for working and development on Mac OS.
 - [ansible](https://www.ansible.com/)
 - [elasticsearch](https://www.elastic.co/products/elasticsearch)
 - [imagemagick](http://www.imagemagick.org/script/index.php)
-- [openssl](https://www.openssl.org/)
 - [nodejs](https://nodejs.org/en/)
 - [postgresql](https://www.postgresql.org/)
 - [redis](http://redis.io/)
