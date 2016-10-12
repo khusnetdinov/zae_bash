@@ -5,7 +5,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install cask
 
 brew cask install appcleaner \
-            coconutbattarey \
+            coconutbattery \
             dash deezer docker dropbox \
             elm-platform \
             firefox \ 
